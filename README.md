@@ -12,10 +12,12 @@ No Frontend foi utilizado: `Reactjs`, `Typescript`, `Redux`, `Redux saga`, `Mate
 
 ## Configurando Backend
 
-1. Crie um arquivo **.env** na raiz do projeto e informe as variáveis de ambiente que se encontram dentro do arquivo **.env-example**.
-2. Na pasta do projeto backend, execute o comando **npm run dev** ou **yarn dev**.
+1. Na pasta do projeto execute **npm install** ou **yarn**.
+2. Crie um arquivo **.env** na raiz do projeto e informe as variáveis de ambiente que se encontram dentro do arquivo **.env-example**.
+3. Na pasta do projeto backend, execute o comando **npm run dev** ou **yarn dev**.
 
 ## Configurando Frontend
 
-1. Crie um arquivo **.env** na raiz do projeto e informe as variáveis de ambiente que se encontram dentro do arquivo **.env-example**.
-2. Na pasta do projeto backend, execute o comando **npm run start** ou **yarn start**.
+1. Na pasta do projeto execute **npm install** ou **yarn**.
+2. Crie um arquivo **.env** na raiz do projeto e informe as variáveis de ambiente que se encontram dentro do arquivo **.env-example**.
+3. Na pasta do projeto backend, execute o comando **npm run start** ou **yarn start**.
